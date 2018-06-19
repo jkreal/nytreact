@@ -1,0 +1,21 @@
+.row {
+	width: 77%;
+	height: auto;
+	background-color: green;
+	border: 2px solid black;
+
+	margin: auto;
+}
+
+.jumbotron {
+	width: 70%;
+	margin: auto;
+	text-align: center;
+	padding: 0;
+	padding-left: 2em;
+	padding-right: 2em;
+}
+
+.jumbotron-heading {
+	border-bottom: 2px solid black;
+}
